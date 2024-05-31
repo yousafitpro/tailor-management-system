@@ -4,6 +4,7 @@
     { "value": "en", "label": "English", "flag": "US" },
     { "value": "es", "label": "Spanish", "flag": "ES" },
     { "value": "fr", "label": "French", "flag": "FR" },
-    { "value": "sw", "label": "Swahili", "flag": "TZ" }
+    { "value": "sw", "label": "Swahili", "flag": "TZ" },
+	 { "value": "ar", "label": "Arabic", "flag": "AR" }
   ]
 }

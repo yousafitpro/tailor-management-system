@@ -25,7 +25,7 @@ import Boolean from '@/Shared/Boolean.vue';
 import Loading from '@/Shared/Loading.vue';
 import { allLanguages, setupI18n } from '@/Core/i18n';
 const appName = window.document.getElementsByTagName('title')[0]?.innerText || 'TSMS';
-
+//adasd
 createInertiaApp({
   title: title => `${title} - ${appName}`,
   resolve: name => resolvePageComponent(`./Pages/${name}.vue`, import.meta.glob('./Pages/**/*.vue')),
